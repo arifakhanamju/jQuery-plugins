@@ -1,0 +1,21 @@
+.parallax-window {
+  min-height: 400px;
+  background: transparent;
+}
+
+/**
+ * Text 1
+ */
+#text1 {
+  margin: 3em 0em;
+  overflow: hidden;
+  font: normal normal normal 2em/1.5 "Open Sans Light", sans-serif;
+  color: #ffffff;
+  background-color: #3fafee;
+}
+.wrapper {
+  margin: 50px 0;
+}
+.img {
+  padding: 0 10px;
+}
